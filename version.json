@@ -1,0 +1,15 @@
+{
+    "version": "1.0.2",
+    "release_date": "2024-09-12",
+    "changelog": [
+        "📱 Sistema de Auto-Atualização - Atualize o sistema com um clique",
+        "🔔 Notificações de Nova Versão - Badge no dashboard quando houver atualização",
+        "📊 Página de Atualização - Interface completa para gerenciar atualizações",
+        "🎯 Badge de Versão - Exibe a versão atual em todo o sistema",
+        "📈 Dashboard com novos indicadores",
+        "🎨 Design mais moderno e responsivo"
+    ],
+    "min_php_version": "7.4",
+    "min_mysql_version": "5.7",
+    "download_url": "https://github.com/kidon/zelador-digital/archive/refs/tags/v1.0.2.zip"
+}
